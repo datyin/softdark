@@ -75,7 +75,7 @@
 
         "editorWhitespace.foreground": "#272b2e",
         "editorLineNumber.foreground": "#3a4144",
-        
+
         "editorBracketMatch.background": "#30373b",
         "editorBracketMatch.border": "#3d464b",
 
@@ -160,8 +160,7 @@
         "badge.background": "#212629",
         "badge.foreground": "#838c91"
     },
-    "tokenColors": [
-        {
+    "tokenColors": [{
             "name": "Bracers",
             "scope": [
                 "meta.brace",

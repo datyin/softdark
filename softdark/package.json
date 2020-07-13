@@ -8,25 +8,23 @@
     "engines": {
         "vscode": "^1.43.0"
     },
-	"categories": [
-		"Themes"
-	],
-	"keywords": [
-		"theme",
-		"dark",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark",
         "soft",
         "color scheme",
         "gold"
-	],
+    ],
     "icon": "icon.png",
     "contributes": {
-        "themes": [
-            {
-                "label": "SoftDark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/softdark-dark-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "SoftDark",
+            "uiTheme": "vs-dark",
+            "path": "./themes/softdark-dark-color-theme.json"
+        }]
     },
     "bugs": {
         "url": "https://github.com/datyin/softdark/issues",
@@ -34,7 +32,7 @@
     },
     "homepage": "https://github.com/datyin/softdark",
     "repository": {
-      "type": "git",
-      "url": "https://github.com/datyin/softdark"
+        "type": "git",
+        "url": "https://github.com/datyin/softdark"
     }
 }
