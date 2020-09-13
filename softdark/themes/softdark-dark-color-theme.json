@@ -21,7 +21,6 @@
         "notificationCenterHeader.background": "#23292c",
         "notificationCenterHeader.foreground": "#838c91",
 
-
         // Activity Bar
         "activityBar.background": "#1a1e20",
         "activityBar.border": "#202527",
@@ -69,9 +68,11 @@
         "editor.background": "#1a1e20",
 
         "editor.lineHighlightBackground": "#212629",
-        "editor.selectionBackground": "#30383b",
+        "editor.selectionBackground": "#293035",
         "editor.wordHighlightStrongBackground": "#30383b",
         "editor.wordHighlightBackground": "#30383b",
+        "editor.findMatchHighlightBackground": "#534622",
+        "editor.findMatchHighlightBorder": "#6b5929",
 
         "editorWhitespace.foreground": "#272b2e",
         "editorLineNumber.foreground": "#3a4144",
@@ -90,8 +91,10 @@
         "scrollbarSlider.background": "#00000000",
         "scrollbarSlider.activeBackground": "#222b2e",
         "scrollbarSlider.hoverBackground": "#222b2e",
+        "scrollbar.shadow": "#00000000",
 
         // Terminal
+        "panel.background": "#0c0f0f",
         "panel.border": "#202527",
         "panelTitle.activeBorder": "#aa8654",
         "terminal.foreground": "#93989b",
@@ -191,7 +194,7 @@
                 "variable.language.self.lua"
             ],
             "settings": {
-                "foreground": "#7f9bbe"
+                "foreground": "#7b9bc2"
             }
         },
         {
@@ -205,7 +208,7 @@
                 "storage.type.function.arrow"
             ],
             "settings": {
-                "foreground": "#99759e"
+                "foreground": "#9b79a5"
             }
         },
         {
@@ -215,7 +218,7 @@
                 "support.type.object.module"
             ],
             "settings": {
-                "foreground": "#b18d78"
+                "foreground": "#be8868"
             }
         },
         {
@@ -252,7 +255,7 @@
                 "support.type.property-name.json"
             ],
             "settings": {
-                "foreground": "#8da4af"
+                "foreground": "#8eafbd"
             }
         },
         {
@@ -261,7 +264,7 @@
                 "string",
             ],
             "settings": {
-                "foreground": "#6ea573"
+                "foreground": "#83ad67"
             }
         },
         {
@@ -272,7 +275,7 @@
                 "entity.other.attribute-name"
             ],
             "settings": {
-                "foreground": "#a89863"
+                "foreground": "#ac9c68"
             }
         },
         {
